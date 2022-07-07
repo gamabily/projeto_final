@@ -7,7 +7,7 @@
         </div>
         <div class="col-6">
             <h4><?= $produto['nome'] ?></h4>
-            <p>Marca<?= $produto['marca'] ?></p>
+            <strong>Marca <?= $produto['marca'] ?></strong>
             <h5>R$<?= $produto['preco'] ?></h5>
         </div>
         <div>

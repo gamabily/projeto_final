@@ -1,6 +1,6 @@
 <?php
 
-$base_url = 'http://localhost/projeto_final/index.php';
+$base_url = 'http://projetofinal1gaby.epizy.com/index.php';
 $controlador = ucfirst($_GET['c'] ?? 'home');
 $metodo = $_GET['m'] ?? 'index';
 
